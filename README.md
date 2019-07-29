@@ -25,9 +25,9 @@ const words = convertToSwedishCardinalNumber(35379); // trettio fem tusen tre hu
 
 ## License
 
-MIT © [Jonathan Persson](https://github.com/jonathanp)
+MIT © [Jonathan Svenheden](https://github.com/svenheden)
 
 [npm-url]: https://npmjs.org/package/swedish-cardinal-numbers
 [npm-image]: https://badge.fury.io/js/swedish-cardinal-numbers.svg
-[travis-image]: https://travis-ci.org/jonathanp/swedish-cardinal-numbers.svg
-[travis-url]: https://travis-ci.org/jonathanp/swedish-cardinal-numbers
+[travis-image]: https://travis-ci.org/svenheden/swedish-cardinal-numbers.svg
+[travis-url]: https://travis-ci.org/svenheden/swedish-cardinal-numbers

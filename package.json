@@ -1,16 +1,16 @@
 {
   "name": "swedish-cardinal-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Swedish cardinal numbers",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanp/swedish-cardinal-numbers.git"
+    "url": "https://github.com/svenheden/swedish-cardinal-numbers.git"
   },
   "engines": {
     "node": ">=4.0.0"
   },
-  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "author": "Jonathan Svenheden <jonathan@svenheden.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "11.13.8",
